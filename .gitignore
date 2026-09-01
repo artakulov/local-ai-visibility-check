@@ -1,0 +1,5 @@
+node_modules/
+input.json
+results.json
+report.md
+.DS_Store

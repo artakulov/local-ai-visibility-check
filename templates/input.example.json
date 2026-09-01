@@ -1,0 +1,10 @@
+{
+  "company": "Acme Appliance Repair",
+  "website": "acmeappliancerepair.example",
+  "location": "Elgin, IL",
+  "niche": "appliance repair",
+  "services": ["refrigerator repair", "washer repair", "oven repair"],
+  "competitor": "Best Fix Appliances",
+  "language": "en",
+  "runs_per_prompt": 3
+}
