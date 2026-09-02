@@ -156,7 +156,7 @@ L.push('- Nobody, including any vendor, can guarantee that an assistant will men
 L.push('');
 L.push('---');
 L.push('');
-L.push('Method and scoring: [local-ai-visibility-check](https://github.com/artakulov/local-ai-visibility-check) · MIT · built by [Lira Agency](https://lira.agency)');
+L.push('Method and scoring: [local-ai-visibility-check](https://github.com/artakulov/local-ai-visibility-check) · CC BY 4.0 · built by [Lira Agency](https://lira.agency)');
 fs.writeFileSync(outPath, L.join('\n') + '\n');
 
 console.log(`Discovery score (unbranded): ${pct(headline.avs)}  |  measured ${headline.measured}, not measured ${headline.not_measured}`);

@@ -83,4 +83,7 @@ Score = sum of points / number of measured answers, as a percentage, unbranded q
 
 ## License
 
-MIT. Use it, fork it, run it for clients. Attribution appreciated, not required.
+- **Code** (`scripts/`, `templates/`) - MIT. See [LICENSE](LICENSE). Fork it, run it for clients, do what you like.
+- **Documentation and prompt packs** (`README.md`, `SKILL.md`, `prompt-pack.md`, `prompt-pack.ru.md`, `examples/`) - [CC BY 4.0](LICENSE-DOCS). Use it commercially, hand it out at your own events, build a service on it. One condition: credit Artem Akulov / Lira Agency and link back.
+
+The split is deliberate. The code is trivial and nobody's advantage. The method write-up and the prompt packs are the part worth crediting.

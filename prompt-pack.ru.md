@@ -118,4 +118,4 @@ _______________________________________________
 
 ---
 
-Лицензия MIT · [github.com/artakulov/local-ai-visibility-check](https://github.com/artakulov/local-ai-visibility-check) · сделано в [Lira Agency](https://lira.agency)
+Лицензия CC BY 4.0 (использование свободное, укажите источник) · [github.com/artakulov/local-ai-visibility-check](https://github.com/artakulov/local-ai-visibility-check) · сделано в [Lira Agency](https://lira.agency)

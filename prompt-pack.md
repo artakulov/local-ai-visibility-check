@@ -87,4 +87,4 @@ Whether it produced a customer. Whether other assistants see you the same way. W
 
 ---
 
-MIT licensed · [github.com/artakulov/local-ai-visibility-check](https://github.com/artakulov/local-ai-visibility-check) · built by [Lira Agency](https://lira.agency)
+CC BY 4.0 · [github.com/artakulov/local-ai-visibility-check](https://github.com/artakulov/local-ai-visibility-check) · built by [Lira Agency](https://lira.agency)
