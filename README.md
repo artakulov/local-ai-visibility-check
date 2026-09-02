@@ -67,7 +67,7 @@ Note which assistant you used. A coding agent with web search is **not** the sam
 
 ### No terminal? Use the prompt pack
 
-[`prompt-pack.md`](prompt-pack.md) is the same method on one page, done by hand with a scoring table. No installation.
+[`prompt-pack.md`](prompt-pack.md) is the same method on one page, done by hand with a scoring table. No installation. Russian version: [`prompt-pack.ru.md`](prompt-pack.ru.md).
 
 ## Scoring
 
